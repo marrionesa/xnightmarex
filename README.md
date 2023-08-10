@@ -1,5 +1,5 @@
 
-<h1 align="center"> </a>Hi 👋, I'm XNightmareX </h1>
+<h1 align="center"> </a>Hi 👋, I'm Mario </h1>
 <a href="https://dev.to/marrionesa" target="blank">
   <p align="center"> <img src="https://avatars.githubusercontent.com/u/37255107?v=4" height="100" width="100" alt="marrionesa" /> </p>
 
@@ -12,7 +12,7 @@
 
 export function ComputerEngineer() {
   const me = {
-    name: "XNightmareX",
+    name: "Mario",
     role: "Developer",
     code: ["JavaScript", "TypeScript", "Php", "HTML", "CSS"],
     knowledge_base: [
