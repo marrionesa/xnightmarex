@@ -1,6 +1,6 @@
 
 <h1 align="center"> </a>Hi 👋, I'm Mario </h1>
-<a href="https://dev.to/marrionesa" target="blank">
+<a href="https://servermatik.es" target="blank">
   <p align="center"> <img src="https://avatars.githubusercontent.com/u/37255107?v=4" height="100" width="100" alt="marrionesa" /> </p>
 
 
@@ -23,12 +23,12 @@ export function ComputerEngineer() {
     ],
   };
 
-  const say_hi = (me) => {
-    console.log(`Hello my friend, thanks for dropping by! This is ${me.name}, I live in Spain. 
-      I work as a ${me.role} and recently I am focusing on unit testing and web programming.
-      I have wide interests, but most of them are multi-platform mobile programming.
-      I write down tips and lecture notes on my personal tech blog, which can be found here: https://`);
-  };
+const say_hi = (me) => {
+  console.log(`Hello my friend, thanks for dropping by! This is ${me.name}, I live in Spain. 
+    I work as a ${me.role} and recently I am focusing on unit testing and web programming.
+    I have wide interests, but most of them are multi-platform mobile programming.
+    I write down tips and lecture notes on my personal tech blog, which can be found here: https://`);
+};
 
   say_hi(me);
 }
